@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #9b59b6;">🐈‍⬛ • Olá, eu sou a Vitória! Uma desenhista e programadora amante de felinos ’</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=C097FF&center=true&vCenter=true&multiline=true&width=435&lines=Programadora+J%C3%BAnior+apaixonada+por+tecnologia;Gatos+pretos%2C+lua+e+arte+digital;Criadora+da+Serena+Cat+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=C097FF&center=true&vCenter=true&multiline=true&width=435&lines=Programadora+J%C3%BAnior+apaixonada+por+tecnologia;gatos%2C+codificaçAo+e+arte+digital;Criadora+da+Serena+Cat+%E2%9C%A8"/>
 </p>
 
 ```js
@@ -27,9 +27,10 @@ const vitoria = {
 [![Meu Site](https://img.shields.io/badge/Visite%20meu%20site-ff69b4?style=for-the-badge&logo=github)](https://serenacat.code.blog/dev)
 ## 🐈‍⬛ Curiosidades
 
-- Sou furry e adoro desenhar personagens.  
+- Sou uma furry e adoro personagens neste estilo.  
 - Meu foco é aprender mais sobre desenvolvimento web e bots para Discord.  
 - Acredito que programação também é uma forma de arte.
+- Curto pra caramba as cores preto e roxo, por algum motivo.
 
 ---
 ***Se quiser conversar, colaborar ou só dar um oi:***
